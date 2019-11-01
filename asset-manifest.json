@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lalaneha/Clicky-game/static/css/main.0260f581.chunk.css",
+    "main.js": "/lalaneha/Clicky-game/static/js/main.22a1b81e.chunk.js",
+    "main.js.map": "/lalaneha/Clicky-game/static/js/main.22a1b81e.chunk.js.map",
+    "runtime-main.js": "/lalaneha/Clicky-game/static/js/runtime-main.c995d6a2.js",
+    "runtime-main.js.map": "/lalaneha/Clicky-game/static/js/runtime-main.c995d6a2.js.map",
+    "static/js/2.bc877cb2.chunk.js": "/lalaneha/Clicky-game/static/js/2.bc877cb2.chunk.js",
+    "static/js/2.bc877cb2.chunk.js.map": "/lalaneha/Clicky-game/static/js/2.bc877cb2.chunk.js.map",
+    "index.html": "/lalaneha/Clicky-game/index.html",
+    "precache-manifest.a04683f197016522e12119faed31046d.js": "/lalaneha/Clicky-game/precache-manifest.a04683f197016522e12119faed31046d.js",
+    "service-worker.js": "/lalaneha/Clicky-game/service-worker.js",
+    "static/css/main.0260f581.chunk.css.map": "/lalaneha/Clicky-game/static/css/main.0260f581.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c995d6a2.js",
+    "static/js/2.bc877cb2.chunk.js",
+    "static/css/main.0260f581.chunk.css",
+    "static/js/main.22a1b81e.chunk.js"
+  ]
+}
