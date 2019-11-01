@@ -1,0 +1,10 @@
+.navigation {
+    background-gradient: (teal);
+    height: 20px;
+  }
+  
+  .navigation,
+  a {
+    text-decoration: none !important;
+    color: white;
+  }
